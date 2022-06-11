@@ -25,8 +25,6 @@ As I mentioned at the start of the project, stock price is affected by the news 
 
 Arian Azmoudeh
 
-Ai & Machine Learning Student
-
 @ArianAzmoudeh
 
 Arian.Azmoudeh@yahoo.com
